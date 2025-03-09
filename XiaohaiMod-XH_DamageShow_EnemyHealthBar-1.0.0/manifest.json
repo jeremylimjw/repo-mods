@@ -1,0 +1,9 @@
+{
+    "name": "XH_DamageShow_EnemyHealthBar",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "怪物血条显示和伤害数值显示  by小海 Xiaohai",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

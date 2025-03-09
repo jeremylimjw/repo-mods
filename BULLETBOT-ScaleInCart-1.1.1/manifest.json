@@ -1,0 +1,7 @@
+{
+  "name": "ScaleInCart",
+  "version_number": "1.1.1",
+  "website_url": "",
+  "description": "Scales anything or valuables in the cart. Supports REPOLib and is highly configurable.",
+  "dependencies": []
+}
