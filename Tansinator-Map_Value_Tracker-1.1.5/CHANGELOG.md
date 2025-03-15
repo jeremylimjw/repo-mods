@@ -1,0 +1,1 @@
+Clients should see map value from the start. Spawned items still won't replicate for now other than host (tax returns, enemy orbs).

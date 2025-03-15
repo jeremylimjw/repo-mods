@@ -1,0 +1,10 @@
+{
+  "name": "BetterTruckHeals",
+  "version_number": "1.2.0",
+  "website_url": "https://fantasy.works/",
+  "description": "Increases the truck heal to 50 instead of 25 and has a fully configurable amount!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+	"nickklmao-REPOConfig-1.1.0"
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "BensCosmetics",
+    "version_number": "1.1.2",
+    "description": "This is a collection of models I had laying around, plus some that friends threw at me, hopefully people like them, will try my best to give credit.",
+	"website_url": "",
+    "dependencies": [
+        "YMC_MHZ-MoreHead-1.1.8"
+    ]
+}
