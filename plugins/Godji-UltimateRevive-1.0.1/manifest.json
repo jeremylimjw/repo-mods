@@ -1,0 +1,9 @@
+{
+    "name": "UltimateRevive",
+    "version_number": "1.0.1",
+    "description": "You can now revive your friends but at the cost of your hp!",
+    "website_url": "https://github.com/lolipopkungz",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

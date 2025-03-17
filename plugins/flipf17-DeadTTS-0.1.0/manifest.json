@@ -1,0 +1,9 @@
+{
+    "name": "DeadTTS",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/cmooref17/REPO-DeadTTS",
+    "description": "Allows you to hear TTS from dead players. Configurable.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

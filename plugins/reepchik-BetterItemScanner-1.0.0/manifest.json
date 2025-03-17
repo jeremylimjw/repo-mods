@@ -1,0 +1,7 @@
+{
+    "name": "BetterItemScanner",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "A simple scanner mod that highlights valuable objects with a yellow outline when you press F or any other Button you want.Works in both single and multiplayer.",
+    "dependencies": []
+}

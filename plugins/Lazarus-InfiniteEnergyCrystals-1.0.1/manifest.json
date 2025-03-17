@@ -1,0 +1,9 @@
+{
+  "name": "InfiniteEnergyCrystals",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/thunderstore-io",
+  "description": "Removes the need for buying even a single energy crystal!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

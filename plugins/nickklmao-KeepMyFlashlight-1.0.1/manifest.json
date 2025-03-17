@@ -1,0 +1,10 @@
+{
+    "name": "KeepMyFlashlight",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Your flashlight will never turn off.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"nickklmao-REPOConfig-1.0.2"
+	]
+}
