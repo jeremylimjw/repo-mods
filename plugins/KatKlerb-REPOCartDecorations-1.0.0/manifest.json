@@ -1,0 +1,10 @@
+{
+  "name": "REPOCartDecorations",
+  "description": "Decorations for your cart!",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Zehs-REPOLib-1.3.1",
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": ""
+}

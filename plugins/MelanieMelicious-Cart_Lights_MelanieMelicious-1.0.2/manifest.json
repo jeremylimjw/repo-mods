@@ -1,0 +1,9 @@
+{
+  "name": "Cart_Lights_MelanieMelicious",
+  "version_number": "1.0.2",
+  "website_url": "",
+  "description": "Just adds a light to the front of the medium and pocket carts. You can probably find me on the R.E.P.O modding Discord.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
