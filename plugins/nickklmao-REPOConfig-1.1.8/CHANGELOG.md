@@ -1,9 +1,19 @@
+# v1.1.8
+- Mods with longer names now scroll in the mod list
+- Adjusted the way default ranges are handled for float/int settings
+
+# v1.1.7
+- Uses MenuLib 2.0.0
+- Added categories
+- Removed rebinding UI support
+  - You can still rebind keys, they'll just be option sliders instead
+
 # v1.1.6
 - Supports enum types
   - Enums with the [Flags] attribute won't directly support multiple values, this will come later
 
 # v1.1.5
-- Added support for keybindsS
+- Added support for keybinds
 - Descriptions scroll
   - There's a config option to change the speed
 
@@ -38,7 +48,7 @@
 - Fixed bar indicator from getting stuck when not hovering
 - Updated README for developers
 - Code refactoring
-  - This now runs of `MenuLib`
+  - This now runs off `MenuLib`
 
 # v1.0.2
 - Updated mod list to reflect mod names rather than assembly names

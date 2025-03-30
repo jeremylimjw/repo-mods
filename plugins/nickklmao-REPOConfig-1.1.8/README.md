@@ -16,7 +16,7 @@ Edit mod configs in-game!
 ### For Developers
 <details><summary>Click To Expand</summary><br>
 
-The currently supported `ConfigEntry` types are `bool`, `int`, `float`, `UnityEngine.InputSystem.Key`, and `string`
+The currently supported `ConfigEntry` types are `bool`, `int`, `float`, and `string`
 - `string` types currently **require** `AcceptableValueList<string>`. *(See "Setting Up Options" below)*
 
 **Setting Up Ranges:**

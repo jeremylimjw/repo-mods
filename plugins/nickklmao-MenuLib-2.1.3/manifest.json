@@ -1,6 +1,6 @@
 {
     "name": "MenuLib",
-    "version_number": "1.0.5",
+    "version_number": "2.1.3",
     "website_url": "https://github.com/IsThatTheRealNick/MenuLib",
     "description": "A library for creating UI!",
     "dependencies": [
