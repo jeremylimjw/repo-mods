@@ -1,0 +1,7 @@
+{
+  "name": "FunGun",
+  "version_number": "0.0.2",
+  "website_url": "",
+  "description": "Make all guns super OP (firing multiple bullets with zero energy use or cooldown).",
+  "dependencies": []
+}

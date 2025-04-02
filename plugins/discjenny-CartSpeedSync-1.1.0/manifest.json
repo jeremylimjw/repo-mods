@@ -1,0 +1,9 @@
+{
+  "name": "CartSpeedSync",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/discjenny/CartSpeedSync",
+  "description": "Syncs the cart speed to the players speed when sprinting. This ensures the cart moves smoothly with the player when they accumulate speed upgrades.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

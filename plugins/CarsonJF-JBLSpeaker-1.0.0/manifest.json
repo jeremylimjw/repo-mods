@@ -1,0 +1,9 @@
+﻿{
+    "name": "JBLSpeaker",
+    "description": "Add's a JBL Speaker that plays Fetty Wap",
+    "version_number": "1.0.0",
+    "dependencies": [
+      "Zehs-REPOLib-1.4.0"
+    ],
+    "website_url": ""
+  }

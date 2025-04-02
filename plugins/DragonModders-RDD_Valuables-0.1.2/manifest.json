@@ -1,0 +1,9 @@
+{
+  "name": "RDD_Valuables",
+  "description": "Adds several new funny valuables from anime, video games, and the internet to the game for the boys.",
+  "version_number": "0.1.2",
+  "dependencies": [
+    "Zehs-REPOLib-1.5.0"
+  ],
+  "website_url": ""
+}
