@@ -1,0 +1,9 @@
+﻿{
+    "name": "MooCosmetics",
+    "version_number": "0.1.2",
+    "website_url": "",
+    "description": "Moo Cosmetics Adds 🎀Cute Cosmetics🎀 to R.E.P.O . List of cosmetics are in read me",
+    "dependencies": [
+        "YMC_MHZ-MoreHead-1.3.4"
+    ]
+}
