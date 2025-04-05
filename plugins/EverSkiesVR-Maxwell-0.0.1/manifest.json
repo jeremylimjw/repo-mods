@@ -1,0 +1,9 @@
+{
+  "name": "Maxwell",
+  "description": "Adds maxwell cat as a valuable item.",
+  "version_number": "0.0.1",
+  "dependencies": [
+    "Zehs-REPOLib-2.0.0"
+  ],
+  "website_url": "https://x.com/EverSkiesVR"
+}

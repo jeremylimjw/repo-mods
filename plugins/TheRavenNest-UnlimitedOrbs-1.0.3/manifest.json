@@ -1,0 +1,7 @@
+{
+    "name": "UnlimitedOrbs",
+    "description": "Removes the Monster Orb cap from 3 to the maximum int value, which removes the softlock the game has if you accidently destroy all the loot",
+    "version_number": "1.0.3",
+    "dependencies": [ "BepInEx-BepInExPack-5.4.2100" ],
+    "website_url": ""
+}

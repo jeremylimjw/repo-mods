@@ -1,0 +1,9 @@
+{
+    "name": "SharedHealthPacks",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Cuajitox/REPO_SharedHealthPacks",
+    "description": "HealthPacks now heals the whole team!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
