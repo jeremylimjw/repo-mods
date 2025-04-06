@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Enemy - Head",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Head"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Robe",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Robe"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Hunter",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Hunter"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Runner",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Runner"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Beamer",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Beamer"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Slow Walker",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Slow Walker"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Animals",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Animal",
+      "Enemy - Animal",
+      "Enemy - Animal"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Bowties",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Bowtie",
+      "Enemy - Bowtie",
+      "Enemy - Bowtie"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Floaters",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Floater",
+      "Enemy - Floater",
+      "Enemy - Floater"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 2 Hidden",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Hidden",
+      "Enemy - Hidden"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Tumblers",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Tumbler",
+      "Enemy - Tumbler",
+      "Enemy - Tumbler"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Upscreams",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Upscream",
+      "Enemy - Upscream",
+      "Enemy - Upscream"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 3 Valuable Throwers",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Valuable Thrower",
+      "Enemy - Valuable Thrower",
+      "Enemy - Valuable Thrower"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 4 Ceiling Eyes",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Ceiling Eye",
+      "Enemy - Ceiling Eye",
+      "Enemy - Ceiling Eye",
+      "Enemy - Ceiling Eye"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 4 Ducks",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Duck",
+      "Enemy - Duck",
+      "Enemy - Duck",
+      "Enemy - Duck"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 4 Slow Mouths",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Slow Mouth",
+      "Enemy - Slow Mouth",
+      "Enemy - Slow Mouth",
+      "Enemy - Slow Mouth"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 4 Thin Men",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Thin Man",
+      "Enemy - Thin Man",
+      "Enemy - Thin Man",
+      "Enemy - Thin Man"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 6 Bangs",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Bang",
+      "Enemy - Bang",
+      "Enemy - Bang",
+      "Enemy - Bang",
+      "Enemy - Bang",
+      "Enemy - Bang"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy Group - 10 Gnomes",
+    "levelsCompletedCondition": true,
+    "levelsCompletedMax": 2,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 5,
+    "spawnObjects": [
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 100,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Valuable Thrower",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Valuable Thrower"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 100,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Animal",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Animal"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 100,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Upscream",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Upscream"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 100,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Hidden",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Hidden"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 100,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Tumbler",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Tumbler"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 100,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Bowtie",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Bowtie"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 100,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Floater",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Floater"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 100,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Bang",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Bang",
+      "Enemy - Bang",
+      "Enemy - Bang"
+    ],
+    "difficulty1Weight": 0,
+    "difficulty2Weight": 100,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Ceiling Eye",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Ceiling Eye"
+    ],
+    "difficulty1Weight": 100,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Thin Man",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Thin Man"
+    ],
+    "difficulty1Weight": 100,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Gnome",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome",
+      "Enemy - Gnome"
+    ],
+    "difficulty1Weight": 100,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Duck",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Duck"
+    ],
+    "difficulty1Weight": 100,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  },
+  {
+    "name": "Enemy - Slow Mouth",
+    "levelsCompletedCondition": false,
+    "levelsCompletedMax": 10,
+    "levelsCompletedMin": 0,
+    "runsPlayed": 0,
+    "spawnObjects": [
+      "Enemy - Slow Mouth"
+    ],
+    "difficulty1Weight": 100,
+    "difficulty2Weight": 0,
+    "difficulty3Weight": 0,
+    "thisGroupOnly": false,
+    "alterAmountChance": 0.0,
+    "alterAmountMin": 0,
+    "alterAmountMax": 0
+  }
+]
