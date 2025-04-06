@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1521619359, guid: 0f8059b1e6b78b244a1e8e19caa53d94, type: 3}
+  m_Name: BodyPillow-MIchiru
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 114434142201111564, guid: 7cc959638c474ea448e52ae8f539e5be, type: 3}
+  _valuablePresets:
+  - Valuables - Generic
