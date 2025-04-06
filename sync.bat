@@ -1,4 +1,8 @@
 @echo off
+
+git pull
+
+
 set "source1=.\plugins"
 set "destination1=C:\Program Files (x86)\Steam\steamapps\common\REPO\BepInEx\plugins"
 
