@@ -37,6 +37,14 @@ Moo Cosmetics Will add Cute Cosmetics to REPO
 - Blush
 - Ponytail Black/Brown/White
 - bug antennas
+- Neko Ears
+- Tiara Pink/White 
+- Leaf
+- Sleeping kitty 
+- Moth Ears 
+- Space Kitty Ears 
+- Bunny Ears **(NEW)**
+- BDHAT **(NEW)**
 
 **---Body---**
 - Voodoo
@@ -45,18 +53,32 @@ Moo Cosmetics Will add Cute Cosmetics to REPO
 - Kuromi
 - Backpacks Bunny/Kitty/Coffin/Moon/Pet/Wings
 - Top Black/Purple/White/Pink/Check
-- Gloomi Bear **(NEW)**
-- Galaxy Wings**(NEW)**
+- Gloomi Bear
+- Galaxy Wings
+- Moth wings
 
 **---Hip---**
 - Rose Tail
 - Cow Tail
 - Kitsune Tail White/Black/Red
 - Skirts Black/White/Blue/Pink/Purple
+- HipBows Pink/White/Pink&White
+- Moth tail 
+- Space kitty tail 
+- Bunny Tail **(NEW)**
 
 
 **---World---**
 - Bee (Follows You)
 - Monkey (Follows You)
-- Butterfly (Particle Thing) **(NEW)**
+- Butterfly (Particles)
+- Pawprints (Feet Particles I dont think it works currently will fix)
+- Bunny (Follows You)
+- Cow (Follows You) 
+- Froggy (Follows You)
+- Bunny (Follows You) **(NEW)**
+- Fishy (Follows You) **(NEW)**
+- Carrot (Follows You) **(NEW)**
 </details>
+
+- **❤THANK YOU FOR 150K DOWNLOADS❤**
