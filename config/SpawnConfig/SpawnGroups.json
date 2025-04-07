@@ -8,9 +8,6 @@
     "spawnObjects": [
       "Enemy - Head",
       "Enemy - Head",
-      "Enemy - Head",
-      "Enemy - Head",
-      "Enemy - Head",
       "Enemy - Head"
     ],
     "difficulty1Weight": 100,
@@ -28,9 +25,6 @@
     "levelsCompletedMin": 0,
     "runsPlayed": 0,
     "spawnObjects": [
-      "Enemy - Robe",
-      "Enemy - Robe",
-      "Enemy - Robe",
       "Enemy - Robe",
       "Enemy - Robe",
       "Enemy - Robe"
@@ -52,9 +46,6 @@
     "spawnObjects": [
       "Enemy - Hunter",
       "Enemy - Hunter",
-      "Enemy - Hunter",
-      "Enemy - Hunter",
-      "Enemy - Hunter",
       "Enemy - Hunter"
     ],
     "difficulty1Weight": 100,
@@ -72,9 +63,6 @@
     "levelsCompletedMin": 0,
     "runsPlayed": 0,
     "spawnObjects": [
-      "Enemy - Runner",
-      "Enemy - Runner",
-      "Enemy - Runner",
       "Enemy - Runner",
       "Enemy - Runner",
       "Enemy - Runner"
@@ -96,9 +84,6 @@
     "spawnObjects": [
       "Enemy - Beamer",
       "Enemy - Beamer",
-      "Enemy - Beamer",
-      "Enemy - Beamer",
-      "Enemy - Beamer",
       "Enemy - Beamer"
     ],
     "difficulty1Weight": 100,
@@ -116,9 +101,6 @@
     "levelsCompletedMin": 0,
     "runsPlayed": 0,
     "spawnObjects": [
-      "Enemy - Slow Walker",
-      "Enemy - Slow Walker",
-      "Enemy - Slow Walker",
       "Enemy - Slow Walker",
       "Enemy - Slow Walker",
       "Enemy - Slow Walker"
@@ -140,9 +122,6 @@
     "spawnObjects": [
       "Enemy - Bowtie",
       "Enemy - Bowtie",
-      "Enemy - Bowtie",
-      "Enemy - Bowtie",
-      "Enemy - Bowtie",
       "Enemy - Bowtie"
     ],
     "difficulty1Weight": 100,
@@ -160,9 +139,6 @@
     "levelsCompletedMin": 0,
     "runsPlayed": 0,
     "spawnObjects": [
-      "Enemy - Floater",
-      "Enemy - Floater",
-      "Enemy - Floater",
       "Enemy - Floater",
       "Enemy - Floater",
       "Enemy - Floater"
@@ -184,9 +160,6 @@
     "spawnObjects": [
       "Enemy - Tumbler",
       "Enemy - Tumbler",
-      "Enemy - Tumbler",
-      "Enemy - Tumbler",
-      "Enemy - Tumbler",
       "Enemy - Tumbler"
     ],
     "difficulty1Weight": 1000,
@@ -206,9 +179,6 @@
     "spawnObjects": [
       "Enemy - Valuable Thrower",
       "Enemy - Valuable Thrower",
-      "Enemy - Valuable Thrower",
-      "Enemy - Valuable Thrower",
-      "Enemy - Valuable Thrower",
       "Enemy - Valuable Thrower"
     ],
     "difficulty1Weight": 100,
@@ -226,9 +196,6 @@
     "levelsCompletedMin": 0,
     "runsPlayed": 0,
     "spawnObjects": [
-      "Enemy - Duck",
-      "Enemy - Duck",
-      "Enemy - Duck",
       "Enemy - Duck",
       "Enemy - Duck",
       "Enemy - Duck"
@@ -284,9 +251,6 @@
     "levelsCompletedMin": 0,
     "runsPlayed": 0,
     "spawnObjects": [
-      "Enemy - Animal",
-      "Enemy - Animal",
-      "Enemy - Animal",
       "Enemy - Animal",
       "Enemy - Animal",
       "Enemy - Animal"
